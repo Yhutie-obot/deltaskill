@@ -4,7 +4,6 @@
 
 > Project Code: DS-2026-001  
 > Category: ML Engineering / EduTech / MLOps  
-> Issuing Body: Start Innovation Hub Nigeria
 
 ## 1. Project Overview
 
@@ -600,4 +599,4 @@ Planned immediate tasks:
 
 ## 22. Reference
 
-This README is based on the DeltaSkill AI/ML Capstone Project Brief, Project Code **DS-2026-001**, issued by the AI/ML Division of Start Innovation Hub Nigeria.
+This README is based on the DeltaSkill AI/ML Capstone Project Brief, Project Code **DS-2026-001**.
